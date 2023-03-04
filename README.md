@@ -13,4 +13,11 @@ The file **readme_generator** is a shell script that can assist you (an alx stud
 ## How it works & Requirements
 1. The script works by looking at the comment section just below the headers in the c files.
 2. The script copies all these comments and stops after it copies the comment with the **Return** keyword.
-3. For the script to work as intened ensure that the last statement of the top comment section begins with the **Return** keyword otherwise the script will copy any line in the file starting \* symbol.
+3. For the script to work as intened ensure that the last statement of the top comment section begins with the **Return** keyword otherwise the script will copy any line in the file starting with \* symbol.
+## comments.c
+* _strncat - Concatenates two strings using at most
+*            an inputted number of bytes from src.
+* @dest: The string to be appended upon.
+* @src: The string to be appended to dest.
+* @n: The number of bytes from src to be appended to dest.
+* Return: A pointer to the resulting string dest.
