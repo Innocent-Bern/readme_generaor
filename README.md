@@ -17,6 +17,7 @@ The file **readme_generator** is a shell script that can assist you (an alx stud
     ![Example of comment section!](/assets/images/example.png)
 2. The script copies all these comments and stops after it copies the comment with the **Return** keyword.
 3. For the script to work as intened ensure that the last statement of the top comment section begins with the **Return** keyword otherwise the script will copy any line in the file starting with \* symbol.
+4. Once you run the script you can edit the README file however you want.
 
 ## Example 
 Below is an exmple of the output when we run the script of the file comments.c.
