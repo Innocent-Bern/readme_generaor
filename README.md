@@ -28,4 +28,4 @@ Below is an exmple of the output when we run the script of the file comments.c.
 * @n: The number of bytes from src to be appended to dest.
 * Return: A pointer to the resulting string dest.
 
-I hope you find this helpfull. If you have any questions on how the script works you can reach me via email at innocentbern22@gmail.c
+I hope you find this helpfull. If you have any questions on how the script works you can reach me via email at innocentbern22@gmail.com
